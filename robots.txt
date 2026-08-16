@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-cdgie3.koi888.cfd/sitemap.xml
